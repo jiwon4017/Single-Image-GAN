@@ -1,5 +1,5 @@
 # Single-Image-GAN
-![](imgs/icce_re.jpg)
+![](imgs/icce_re.png)
 
 
 ## Environment
